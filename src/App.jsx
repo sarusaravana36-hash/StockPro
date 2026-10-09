@@ -34,7 +34,7 @@ import Dashboard from './pages/Dashboard'
 import Products from './pages/Products'
 import AddProduct from './pages/AddProduct'
 import ProductDetails from './pages/ProductDetails'
-import Sales from './pages/Sales'
+import Sales from './pages/sales'
 import Reports from './pages/Reports'
 
 import productReducer from './context/productReducer'
