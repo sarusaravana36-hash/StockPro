@@ -90,18 +90,13 @@ This project was developed as a capstone project to practise React development, 
 ## Screenshots
 
 ### Dashboard
-
-![StockPro Dashboard](screenshots/dashboard.png)
+![StockPro Dashboard](screenshots/dashboard.png.png)
 
 ### Products
-
-![StockPro Products](screenshots/products.png)
+![StockPro Products](screenshots/products.png.png)
 
 ### Sales
-
-![StockPro Sales](screenshots/sales.png)
+![StockPro Sales](screenshots/sales.png.png)
 
 ### Reports
-
-![StockPro Reports](screenshots/reports.png)
-
+![StockPro Reports](screenshots/reports.png.png)
