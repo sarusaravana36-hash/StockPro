@@ -86,3 +86,22 @@ This project was developed as a capstone project to practise React development, 
 **Saravana S**
 
 * GitHub: https://github.com/sarusaravana36-hash
+
+## Screenshots
+
+### Dashboard
+
+![StockPro Dashboard](screenshots/dashboard.png)
+
+### Products
+
+![StockPro Products](screenshots/products.png)
+
+### Sales
+
+![StockPro Sales](screenshots/sales.png)
+
+### Reports
+
+![StockPro Reports](screenshots/reports.png)
+
